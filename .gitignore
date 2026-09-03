@@ -1,0 +1,30 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Packaging
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Project artifacts / logs (datasets, checkpoints, downloaded models, metrics)
+artifacts/
+logs/
+*.log
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment / secrets
+.env
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
